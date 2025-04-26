@@ -1,6 +1,11 @@
-# StilNovo
-Repository containing all the code related to StilNovo, a project where I try to build a language model that can reproduce ancient italian poems.
-All of this was purely for didacting purposes, and should not be considered cutting edge or optimized. The goal was to learn more about NLP and how LLMs work.
+# StilNovo: What and Why
+- Repository containing all the code related to StilNovo, a project where I try to build a language model that can reproduce ancient italian poems.
+
+- Stil Novo ('New Style' in italian) was a literary movement in 13th-century Italy, centered mainly in Florence and Bologna.
+It revolutionized Italian poetry compared to the earlier medieval tradition, especially regarding themes, language, and style.
+It’s called "new" because it broke away from the older, rougher poetic styles, bringing a more refined, philosophical, and emotional tone to poetry.
+- I decided it would be a fun project to try to make a language model capable of producing poetry in this old italian style.
+- Note: All of this was purely for didacting purposes, and should not be considered cutting edge or optimized. The goal was to learn more about NLP and how LLMs work.
 
 # Code description
 I tried two different attempts: (1) writing my own GPT transformer model, and (2) using a pretrained LLM and fine tuning to apply a style transfer and induce the LLM to produce poems. Training was performed on a macbook (2023) with limited memory, so some compromised were made.
