@@ -8,7 +8,7 @@ It’s called "new" because it broke away from the older, rougher poetic styles,
 - Note: All of this was purely for didactic purposes, and should not be considered cutting edge or optimized code. The goal was to learn more about NLP and how LLMs work.
 
 # Code description
-I tried two different attempts: (1) writing my own GPT transformer model, and (2) using a pretrained LLM and fine tuning to apply a style transfer and induce the LLM to produce poems. Training was performed on a macbook (2023) with limited memory, so some compromised were made.
+I tried two different attempts: (1) writing my own GPT transformer model, and (2) using a pretrained LLM and fine tuning to apply a style transfer and induce the LLM to produce poems. Training was performed on a macbook (2023) with limited memory, so some compromises were made.
 
 
 # Data sourcing
